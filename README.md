@@ -21,3 +21,6 @@ Python 3.x
 python client.py
 ```
 Siga as instruções exibidas no terminal para interagir com o cliente.
+
+## Autor
+Luiz Eduardo Dias dos Santos - 20180171629
