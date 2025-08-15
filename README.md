@@ -1,4 +1,4 @@
-# **Projeto Redes: Cliente-Servidor UDP RAW **
+# Projeto Redes: Cliente-Servidor UDP RAW 
 Este é um projeto desenvolvido como parte da disciplina de Redes de Computadores I, oferecida pelo Centro de Informática da Universidade Federal da Paraíba.
 
 ## Descrição
