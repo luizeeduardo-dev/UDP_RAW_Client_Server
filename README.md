@@ -23,4 +23,10 @@ python client.py
 Siga as instruções exibidas no terminal para interagir com o cliente.
 
 ## Autor
-Luiz Eduardo Dias dos Santos - 20180171629
+Luiz Eduardo Dias dos Santos
+
+---
+
+## Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
